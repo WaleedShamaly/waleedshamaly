@@ -1,0 +1,25 @@
+{
+  "name": "nuxt-app",
+  "private": true,
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare"
+  },
+  "devDependencies": {
+    "@types/node": "^18",
+    "nuxt": "^3.4.3",
+    "nuxt-icon": "^0.4.0"
+  },
+  "dependencies": {
+    "@vueuse/core": "^10.1.0",
+    "animate.css": "^4.1.1",
+    "bootstrap-vue": "^2.23.1",
+    "jquery": "^3.6.4",
+    "v-wow": "github:guisoares2011/vue-wow",
+    "wow.js": "^1.2.2",
+    "wowjs": "^1.1.3"
+  }
+}
